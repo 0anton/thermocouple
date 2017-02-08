@@ -1,6 +1,8 @@
 #include <SPI.h>
 #include "Adafruit_MAX31855.h"
 
+// (c) Anton Golubev 2017
+
 // Default connection is using software SPI, but comment and uncomment one of
 // the two examples below to switch between software SPI and hardware SPI:
 
