@@ -26,6 +26,7 @@ void setup() {
   Serial.begin(115200);
 
   Serial.println("MAX31855 test");
+  Serial.println("MAX31855 test 2");
   // wait for MAX chip to stabilize
   delay(500);
 }
